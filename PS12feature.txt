@@ -1,1 +1,2 @@
-merge conflict resolved
+feature1
+
